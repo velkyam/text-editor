@@ -2,6 +2,12 @@
 ## Description
 The goal of this project was to create PWA that caches text and can be viewed after closing and reopening the app or offline. Furthermore, the application can be installed locally. 
 
+[Deployed App](https://texteditor-dn.herokuapp.com/)
+https://texteditor-dn.herokuapp.com/
+
+[Github](https://github.com/velkyam/text-editor)
+https://github.com/velkyam/text-editor
+
 <img src="screenapp.png" alt="texteditor_screenshot" width="500"/>
 
 To edit this project:
