@@ -2,11 +2,7 @@
 ## Description
 The goal of this project was to create PWA that caches text and can be viewed after closing and reopening the app or offline. Furthermore, the application can be installed locally. 
 
-
-## [Link to video walkthrough](https://youtu.be/pjcQHYueSeg)
-https://youtu.be/pjcQHYueSeg
-
-
+<img src="screenapp.png" alt="texteditor_screenshot" width="500"/>
 
 To edit this project:
 
@@ -16,15 +12,11 @@ To edit this project:
 
 3. NPM Install
 
-4. Create .env file
+4. Npm Run Start:dev.
 
-5. Source schema.sql
+5. Make changes.
 
-6. Npm run seed
-
-7. Make changes.
-
-8. When you're ready to deploy, use the git add, git commit, git pull and git push commands to save and push your code to your GitHub repository.
+6. When you're ready to deploy, use the git add, git commit, git pull and git push commands to save and push your code to your GitHub repository.
 
 MIT License
 
